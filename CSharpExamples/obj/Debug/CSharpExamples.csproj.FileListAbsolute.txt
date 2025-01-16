@@ -1,0 +1,7 @@
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe.config
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.pdb
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.csproj.AssemblyReference.cache
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.exe
+C:\Users\npava\Source\Repos\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.pdb
